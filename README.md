@@ -4,7 +4,7 @@ Digital computer structure -381.1.0103 - Ben-Gurion University - final project
 
 computer structure - conference project
 
-Video 1 -
+Video 1 - ![alt text] (https://www.youtube.com/watch?v=3SZ34QYP1EM&t=10s)
 https://www.youtube.com/watch?v=3SZ34QYP1EM&t=10s
 
 Video 2 -
