@@ -1,5 +1,5 @@
 
-# computer_structure_-_final_project
+# computer structure - final project
 Digital computer structure -381.1.0103 - Ben-Gurion University - final project 
 
 computer structure - conference project
