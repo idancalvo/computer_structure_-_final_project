@@ -1,3 +1,4 @@
+![alt text](https://github.com/idancalvo/computer_structure_-_final_project/blob/master/1.jpg)
 # computer_structure_-_final_project
 Digital computer structure -381.1.0103 - Ben-Gurion University - final project 
 
